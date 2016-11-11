@@ -1,2 +1,3 @@
 # hello-world
 First GitHub Repo
+Starting with GitHub! This is the first of a series of new and amazing projects to be started in a few days...
